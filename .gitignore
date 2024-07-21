@@ -159,4 +159,10 @@ cython_debug/
 #  be found at https://github.com/github/gitignore/blob/main/Global/JetBrains.gitignore
 #  and can be added to the global gitignore or merged into this file.  For a more nuclear
 #  option (not recommended) you can uncomment the following to ignore the entire idea folder.
-#.idea/
+.idea/
+Writerside
+
+# Project Specific Files
+/flask_app/static/libraries/bootstrap/css/bootstrap.css
+/flask_app/static/libraries/bootstrap/js/bootstrap.bundle.js
+/flask_app/static/libraries/jQuery/jquery-3.7.1.js
