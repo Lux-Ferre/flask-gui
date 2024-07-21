@@ -163,6 +163,4 @@ cython_debug/
 Writerside
 
 # Project Specific Files
-/flask_app/static/libraries/bootstrap/css/bootstrap.css
-/flask_app/static/libraries/bootstrap/js/bootstrap.bundle.js
-/flask_app/static/libraries/jQuery/jquery-3.7.1.js
+/flask_app/static/libraries/*
