@@ -1,0 +1,25 @@
+:root {
+    --console-colour: #000;
+    --text-colour: #fff;
+}
+
+#header_row {
+    margin-bottom: 25px;
+}
+
+#header_row > .col > h1 {
+    text-decoration: underline;
+}
+
+#output {
+    height: 75vh;
+    overflow-y: scroll;
+    font-family: monospace;
+    background-color: var(--console-colour);
+    color: var(--text-colour);
+    border-top-left-radius: 10px;
+}
+
+#inputField {
+    font-family: monospace;
+}
