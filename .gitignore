@@ -164,3 +164,4 @@ Writerside
 
 # Project Specific Files
 /flask_app/static/libraries/*
+/flask_app/path_to/custom/static/libraries/*
