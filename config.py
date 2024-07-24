@@ -1,2 +1,2 @@
 class Config:
-	LOGIC_MODULE = "logic_example.py"
+	LOGIC_MODULE = "app_example.py"

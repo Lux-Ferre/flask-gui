@@ -1,0 +1,9 @@
+.success_tile{
+    color: lime;
+    border-color: lime;
+}
+
+.wrong_tile{
+    color: yellow;
+    border-color: yellow;
+}
