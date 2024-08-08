@@ -127,8 +127,8 @@ The proposed UI will mimic a terminal, providing a familiar environment for user
 ## Deployment
 
 ### Prerequisites
-- **Python**: Install Python 3.x.
-- 
+- **Python**: Install Python 3.10+
+  
 ### Installation Steps
 1. **Clone Repository**: Clone the project repository from the version control system.
 
