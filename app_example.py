@@ -1,12 +1,13 @@
 import json
 import random
+from pathlib import Path
 
 
 class Logic:
 	def __init__(self):
 		self.configs = {
 			"title": "Vault Cracker",
-			"custom_template": r"path_to\custom",
+			"custom_template": Path("path_to/custom"),
 		}
 		self.dispatch_map = {
 			"new_game": self.new_game,
